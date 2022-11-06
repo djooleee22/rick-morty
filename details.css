@@ -79,6 +79,9 @@ a:hover {
   body {
     font-size: 14px;
   }
+  .wrap {
+    width: 55%;
+  }
   .details {
     width: 100%;
   }
